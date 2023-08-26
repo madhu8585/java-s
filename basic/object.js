@@ -101,7 +101,8 @@ const coures = {
 }
 
 const {teach: teacher}= coures //destructure the code
-console.log(teacher); 
+console.log(teacher);        
+
 
 
 {

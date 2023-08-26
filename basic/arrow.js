@@ -12,16 +12,16 @@ const user = {
 //user.username="sam"
 //user.welmes()
 
-//function chai (){
-  // let username="madhukar" 
-    //console.log(this.username);
-//}
-//chai()
+// function chai (){
+//   let username="madhukar" 
+//     console.log(this.username);
+// }
+// chai()
 
-//const chai =function (){
- //   let username="madhukar" 
- //     console.log(this.username);
- // }
+// const chai =function (){
+//    let username="madhukar" 
+//      console.log(this.username);
+//  }
 
 
  // const chai = () => {
@@ -41,4 +41,5 @@ const user = {
  //const addtwo=(num1, num2)=>  (num1 + num2)
  const addtwo=(num1, num2)=>({username:"madh"})
  //console.log(addtwo(7,4));
+
 
